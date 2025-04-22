@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Ángel Sepúlveda. Soy un Ingeniero de Software Full Stack apasionado por la creación de soluciones tecnológicas innovadoras. Con más de 2 años de experiencia, tengo un profundo conocimiento en tecnologías tanto de backend como .NET y Node.js, así como en tecnologías de frontend, como ReactJS, HTML y CSS.<br><br>Mi enfoque se centra en el desarrollo de código limpio y escalable, junto con una sólida arquitectura de software. También disfruto liderando equipos para lograr objetivos y plazos de manera efectiva y garantizar la seguridad cibernética en cada proyecto.<br><br>Estoy siempre en busca de desafíos emocionantes y oportunidades para aportar mi experiencia a proyectos innovadores. ¡Hablemos sobre cómo puedo contribuir al éxito de tu próximo proyecto tecnológico! 🚀</p>
+<p align="left">Mi nombre es Ángel Sepúlveda. Soy un Ingeniero de Software Full Stack Senior apasionado por la creación de soluciones tecnológicas innovadoras. Con más de 3 años de experiencia, tengo un profundo conocimiento en tecnologías tanto de backend como .NET y Node.js, así como en tecnologías de frontend, como ReactJS, HTML y CSS.<br><br>Mi enfoque se centra en el desarrollo de código limpio y escalable, junto con una sólida arquitectura de software. También disfruto liderando equipos para lograr objetivos y plazos de manera efectiva y garantizar la seguridad cibernética en cada proyecto.<br><br>Estoy siempre en busca de desafíos emocionantes y oportunidades para aportar mi experiencia a proyectos innovadores. ¡Hablemos sobre cómo puedo contribuir al éxito de tu próximo proyecto tecnológico! 🚀</p>
 
 ###
 
